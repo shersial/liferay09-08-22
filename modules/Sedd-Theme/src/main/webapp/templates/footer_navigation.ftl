@@ -1,4 +1,4 @@
-<nav aria-label="<@liferay.language key="site-pages" />" class="${nav_css_class}" id="footer_navigation" role="navigation">
+<nav aria-label="<@liferay.language key="site-pages" />" class="${nav_css_class}" id="footer_navigation_menu" role="navigation">
     <ul role="menubar">
         <#list nav_items as nav_item>
             <#assign

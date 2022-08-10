@@ -7,9 +7,11 @@
         </a>
     </div>
     <div class="footer-nav">
-        <#if has_navigation && is_setup_complete>
+
+
             <#include "${full_templates_path}/footer_navigation.ftl" />
-        </#if>
+
+
     </div>
     <div class="footer-top-extra row">
         <div class="visitor col-lg-4 col-md-14 col-sm-12">

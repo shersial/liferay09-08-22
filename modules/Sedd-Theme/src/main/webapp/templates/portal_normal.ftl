@@ -92,8 +92,10 @@
 <#--	</footer>-->
 <footer id="footer" role="contentinfo">
 	<div class=footer-wrapper>
-
+		<#if show_footer>
 			<#include "${full_templates_path}/footer.ftl" />
+		</#if>
+
 
 	</div>
 </footer>
