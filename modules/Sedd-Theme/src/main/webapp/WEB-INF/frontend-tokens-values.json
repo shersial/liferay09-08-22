@@ -1,0 +1,119 @@
+{
+    "brandColor1": {
+        "cssVariableMapping": "brand-color-1",
+        "value": "#014A01"
+    },
+    "brandColor2": {
+        "cssVariableMapping": "brand-color-2",
+        "value": "#910404"
+    },
+    "brandColor3": {
+        "cssVariableMapping": "brand-color-3",
+        "value": "#006500"
+    },
+    "primaryColor": {
+        "cssVariableMapping": "primary",
+        "name": "brandColor1",
+        "value": "#014A01"
+    },
+    "dangerColor": {
+        "cssVariableMapping": "danger",
+        "name": "brandColor2",
+        "value": "#910404"
+    },
+    "bodyBgColor": {
+        "cssVariableMapping": "body-bg",
+        "name": "whiteColor",
+        "value": "#fff"
+    },
+    "bodyColor": {
+        "cssVariableMapping": "body-color",
+        "name": "gray900Color",
+        "value": "#272833"
+    },
+    "btnPrimaryBackgroundColor": {
+        "cssVariableMapping": "btn-primary-background-color",
+        "name": "brandColor1",
+        "value": "#014A01"
+    },
+    "btnPrimaryBorderColor": {
+        "cssVariableMapping": "btn-primary-border-color",
+        "name": "brandColor1",
+        "value": "#014A01"
+    },
+    "btnPrimaryHoverBackgroundColor": {
+        "cssVariableMapping": "btn-primary-hover-background-color",
+        "name": "brandColor3",
+        "value": "#006500"
+    },
+    "btnOutlinePrimaryBorderColor": {
+        "cssVariableMapping": "btn-outline-primary-border-color",
+        "name": "brandColor1",
+        "value": "#014A01"
+    },
+    "btnOutlinePrimaryColor": {
+        "cssVariableMapping": "btn-outline-primary-color",
+        "name": "brandColor1",
+        "value": "#014A01"
+    },
+    "btnOutlinePrimaryHoverBorderColor": {
+        "cssVariableMapping": "btn-outline-primary-hover-border-color",
+        "name": "brandColor3",
+        "value": "#006500"
+    },
+    "btnOutlinePrimaryHoverColor": {
+        "cssVariableMapping": "btn-outline-primary-hover-color",
+        "name": "whiteColor",
+        "value": "#fff"
+    },
+    "btnOutlinePrimaryHoverBackgroundColor": {
+        "cssVariableMapping": "btn-outline-primary-hover-background-color",
+        "name": "brandColor1",
+        "value": "#014A01"
+    },
+    "btnSecondaryBorderColor": {
+        "cssVariableMapping": "btn-secondary-border-color",
+        "name": "gray600Color",
+        "value": "#6b6c7e"
+    },
+    "btnSecondaryColor": {
+        "cssVariableMapping": "btn-secondary-color",
+        "name": "gray600Color",
+        "value": "#6b6c7e"
+    },
+    "btnSecondaryHoverBorderColor": {
+        "cssVariableMapping": "btn-secondary-hover-border-color",
+        "name": "gray700Color",
+        "value": "#495057"
+    },
+    "btnSecondaryHoverColor": {
+        "cssVariableMapping": "btn-secondary-hover-color",
+        "name": "gray700Color",
+        "value": "#495057"
+    },
+    "btnOutlineSecondaryBorderColor": {
+        "cssVariableMapping": "btn-outline-secondary-border-color",
+        "name": "gray600Color",
+        "value": "#6b6c7e"
+    },
+    "btnOutlineSecondaryColor": {
+        "cssVariableMapping": "btn-outline-secondary-color",
+        "name": "gray600Color",
+        "value": "#6b6c7e"
+    },
+    "btnOutlineSecondaryHoverColor": {
+        "cssVariableMapping": "btn-outline-secondary-hover-color",
+        "name": "gray700Color",
+        "value": "#495057"
+    },
+    "btnLinkColor": {
+        "cssVariableMapping": "btn-link-color",
+        "name": "successColor",
+        "value": "#287d3c"
+    },
+    "btnLinkHoverColor": {
+        "cssVariableMapping": "btn-link-hover-color",
+        "name": "brandColor1",
+        "value": "#014A01"
+    }
+}

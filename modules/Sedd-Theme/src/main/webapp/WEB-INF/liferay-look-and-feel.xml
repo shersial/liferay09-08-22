@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE look-and-feel PUBLIC "-//Liferay//DTD Look and Feel 7.4.0//EN" "http://www.liferay.com/dtd/liferay-look-and-feel_7_4_0.dtd">
+
+<look-and-feel>
+	<compatibility>
+		<version>7.0.0+</version>
+		<version>7.1.0+</version>
+		<version>7.2.0+</version>
+		<version>7.3.0+</version>
+		<version>7.4.0+</version>
+	</compatibility>
+	<theme id="sedd-theme" name="Sedd-Theme">
+		<template-extension>ftl</template-extension>
+		<settings>
+			<setting configurable="true" key="show-breadcrumbs" type="checkbox"	 value="false" />
+			<setting configurable="true" key="show-footer" type="checkbox" value="true" />
+			<setting configurable="true" key="show-header" type="checkbox" value="true" />
+			<setting configurable="true" key="show-header-search" type="checkbox" value="false" />
+			<setting configurable="true" key="show-maximize-minimize-application-links" type="checkbox" value="false" />
+			<setting configurable="true" key="show-site-name-default" type="checkbox" value="false" />
+			<setting configurable="true " key="show-site-name-supported" type="checkbox" value="false" />
+			<setting configurable="true" key="wrap-widget-page-content" type="checkbox" value="false" />
+		</settings>
+		<roles>
+			<role-name>user</role-name>
+		</roles>
+		<portlet-decorator id="barebone" name="Barebone">
+			<portlet-decorator-css-class>portlet-barebone</portlet-decorator-css-class>
+		</portlet-decorator>
+		<portlet-decorator id="borderless" name="Borderless">
+			<default-portlet-decorator>true</default-portlet-decorator>
+			<portlet-decorator-css-class>portlet-borderless</portlet-decorator-css-class>
+		</portlet-decorator>
+		<portlet-decorator id="decorate" name="Decorate">
+			<portlet-decorator-css-class>portlet-decorate</portlet-decorator-css-class>
+		</portlet-decorator>
+	</theme>
+</look-and-feel>
