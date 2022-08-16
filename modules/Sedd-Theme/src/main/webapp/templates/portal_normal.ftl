@@ -11,7 +11,7 @@
 
 	<@liferay_util["include"] page=top_head_include />
 	<!--  font Awesome Pro 6-->
-	<script src="https://kit.fontawesome.com/7edef743bc.js" crossorigin="anonymous"></script>
+<#--	<script src="https://kit.fontawesome.com/7edef743bc.js" crossorigin="anonymous"></script>-->
 </head>
 
 <body class="${css_class}">
@@ -94,6 +94,8 @@
 	<div class=footer-wrapper>
 		<#if show_footer>
 			<#include "${full_templates_path}/footer.ftl" />
+
+
 		</#if>
 
 
